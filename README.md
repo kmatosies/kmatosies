@@ -12,13 +12,33 @@
 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/paypal/paypal-icon.svg" widht="60">
-<img src="https://brandlogos.net/svg/gemini-icon-logo-svg-107037" widht="60"
+<img src="https://www.vectorlogo.zone/logos/google/google-tile.svg" widht="60">
 </h4>
+
+
+
+
+
+
+
+
+
 
 
 <!--🐱CAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
+
+<!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<p align="right">
+<!--RECENT_ACTIVITY:last_update-->
+<i>Last refresh</i> : <b>Friday, June 23rd, 2023, 6:10:10 PM</b>
+<!--RECENT_ACTIVITY:last_update_end-->
+  
+<!-- 
 
 
 Here are some ideas to get you started:
