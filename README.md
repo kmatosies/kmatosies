@@ -65,6 +65,9 @@ Aqui estão alguns dos meus projetos desenvolvidos para ajudar você a aprender 
 📝 **Gostou dos meus projetos?**  
 Entre em contato para mais informações ou se quiser colaborar! 🚀
 
+<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
 
 <picture style="background-color: transparent; display: flex; justify-content: center;">
   <source
