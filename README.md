@@ -61,6 +61,7 @@ Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das fe
 ### 🚀 **Meus Projetos**  
 Aqui estão alguns dos meus projetos desenvolvidos para ajudar você a aprender mais sobre tecnologia e programação. Confira:
 
+https://bella-dente.web.app/
 
 📝 **Gostou dos meus projetos?**  
 Entre em contato para mais informações ou se quiser colaborar! 🚀
